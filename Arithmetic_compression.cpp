@@ -235,7 +235,9 @@ void coder(const char* input_name = "input.txt", const char* output_name = "enco
 
     fclose(input_file);
     fclose(output_file);
-
 }
 
-int main() {}
+int main()
+{
+    coder();
+}
