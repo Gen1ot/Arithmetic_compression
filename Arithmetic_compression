@@ -47,4 +47,6 @@ void bitsPlusFollow(unsigned int bit, unsigned int* bits_to_follow, unsigned int
     }
 }
 
+void coder(const char* input_name = "input.txt", const char* output_name = "encoded.txt"){}
+
 int main() {}
