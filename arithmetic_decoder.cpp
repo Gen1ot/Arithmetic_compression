@@ -176,4 +176,6 @@ void decoder(const char* input_name = "encoded.txt", const char* output_name = "
     fclose(output_file);
 }
 
-int main{}
+int main{
+    decoder();
+}
